@@ -10,6 +10,7 @@ CloudFormation template for easy distribution of Prisma to AWS. This template us
   ```bash
   $ aws configure
   ```
+
 - Create service linked role
 
   ```bash
