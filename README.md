@@ -6,10 +6,12 @@ CloudFormation template for easy distribution of Prisma to AWS. This template us
 
 ## Pre-requisites
 - 🔑 **IAM Account** for *AWS CLI* (Requires pre-configuration using `aws configure`)
+
   ```bash
   $ aws configure
   ```
 - Create service linked role
+
   ```bash
   $ aws iam create-service-linked-role --aws-service-name ecs.amazonaws.com
   ```
