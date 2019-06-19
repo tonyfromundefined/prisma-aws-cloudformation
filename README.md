@@ -41,6 +41,7 @@
 - Click `Create Stack`
 ![](./images/screenshot-6.png)
 - When the deployment ended, you can find an endpoint of prisma in `Outputs` section.
+- If you see an error 503, try waiting a few minutes.
 
 ## Todos
 - [ ] PostgreSQL Template
