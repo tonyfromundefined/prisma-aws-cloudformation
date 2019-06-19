@@ -16,10 +16,10 @@
 ## Download CloudFormation Templates 📄
 - `prisma.mysql.yml`
   - MySQL Template
-  - [Download](/prisma.mysql.yml)
+  - [Download](https://raw.githubusercontent.com/tonyfromundefined/prisma-cloudformation/master/prisma.mysql.yml)
 - `prisma.aurora.serverless.yml`
   - Aurora Serverless Template
-  - [Download](/prisma.aurora.serverless.yml)
+  - [Download](https://raw.githubusercontent.com/tonyfromundefined/prisma-cloudformation/master/prisma.aurora.serverless.ymll)
 
 ## How to deploy
 - Download the template file for your desired DB below
