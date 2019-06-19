@@ -45,3 +45,9 @@
 ## Todos
 - [ ] PostgreSQL Template
 - [ ] MongoDB(DocumentDB) Template
+
+## References
+> - https://www.prisma.io/tutorials/deploy-prisma-to-aws-fargate-ct14
+> - https://github.com/prisma/database-templates/blob/master/aws/mysql.yml
+> - https://github.com/prisma/prisma-templates/blob/master/aws/fargate.yml
+> - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
