@@ -1,7 +1,7 @@
 # Prisma CloudFormation Templates 🔨
 CloudFormation template for easy distribution of Prisma to AWS. This template uses ELB, ECS (Fargate) and RDS services in 1 new VPC.
 
-## Architecture 📐
+## Architecture
 ![](./images/architecture.png)
 
 ## Pre-requisites
@@ -17,7 +17,7 @@ CloudFormation template for easy distribution of Prisma to AWS. This template us
   $ aws iam create-service-linked-role --aws-service-name ecs.amazonaws.com
   ```
 
-## Download CloudFormation Templates 📄
+## Download CloudFormation Templates
 - `prisma.mysql.yml`
   - MySQL Template
   - [Download](https://raw.githubusercontent.com/tonyfromundefined/prisma-cloudformation/master/prisma.mysql.yml)
