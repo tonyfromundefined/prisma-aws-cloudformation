@@ -2,7 +2,7 @@
 CloudFormation template for easy distribution of Prisma to AWS. This template uses ELB, ECS (Fargate) and RDS services in 1 new VPC.
 
 ## Architecture 📐
-![](./images/architecture.jpeg)
+![](./images/architecture.png)
 
 ## Pre-requisites
 - 🔑 **IAM Account** for *AWS CLI* (Requires pre-configuration using `aws configure`)
