@@ -48,7 +48,7 @@ CloudFormation template for easy distribution of Prisma to AWS. This template us
 - If you see an error 503, try waiting a few minutes.
 
 ## Todos
-- [ ] PostgreSQL Template
+- [x] PostgreSQL Template
 - [ ] MongoDB(DocumentDB) Template
 
 ## References
